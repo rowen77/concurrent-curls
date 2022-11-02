@@ -6,5 +6,5 @@ Send multiple API calls in parallel using curl
 
 ## Format of input file
 
-        url = "https://example.com/endpoint-1"
-        url = "https://example.com/endpoint-2"
+    url = "https://example.com/endpoint-1"
+    url = "https://example.com/endpoint-2"
